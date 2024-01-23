@@ -1,0 +1,114 @@
+Shery.imageEffect("#back",
+{style: 1,config: {
+        "a": {
+            "value": 2.98,
+            "range": [
+                0,
+                30
+            ]
+        },
+        "b": {
+            "value": 0.85,
+            "range": [
+                -1,
+                1
+            ]
+        },
+        "aspect": {
+            "value": 2.0139751552795033
+        },
+        "gooey": {
+            "value": true
+        },
+        "infiniteGooey": {
+            "value": true
+        },
+        "durationOut": {
+            "value": 0.83,
+            "range": [
+                0.1,
+                5
+            ]
+        },
+        "durationIn": {
+            "value": 1.29,
+            "range": [
+                0.1,
+                5
+            ]
+        },
+        "displaceAmount": {
+            "value": 0.5
+        },
+        "masker": {
+            "value": true
+        },
+        "maskVal": {
+            "value": 1.26,
+            "range": [
+                1,
+                5
+            ]
+        },
+        "scrollType": {
+            "value": 0
+        },
+        "geoVertex": {
+            "range": [
+                1,
+                64
+            ],
+            "value": 1
+        },
+        "noEffectGooey": {
+            "value": false
+        },
+        "onMouse": {
+            "value": 0
+        },
+        "noise_speed": {
+            "value": 1.12,
+            "range": [
+                0,
+                10
+            ]
+        },
+        "metaball": {
+            "value": 0.19,
+            "range": [
+                0,
+                2
+            ]
+        },
+        "discard_threshold": {
+            "value": 0.53,
+            "range": [
+                0,
+                1
+            ]
+        },
+        "antialias_threshold": {
+            "value": 0.01,
+            "range": [
+                0,
+                0.1
+            ]
+        },
+        "noise_height": {
+            "value": 0.52,
+            "range": [
+                0,
+                2
+            ]
+        },
+        "noise_scale": {
+            "value": 16.82,
+            "range": [
+                0,
+                100
+            ]
+        }
+    },gooey: true
+});
+
+
